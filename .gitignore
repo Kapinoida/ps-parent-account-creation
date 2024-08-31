@@ -1,0 +1,5 @@
+*.pickle
+*.json
+*test*
+old*
+*.pyc
